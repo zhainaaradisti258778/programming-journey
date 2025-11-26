@@ -1,0 +1,17 @@
+D:\zhaina\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.exe
+D:\zhaina\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.deps.json
+D:\zhaina\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.runtimeconfig.json
+D:\zhaina\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.dll
+D:\zhaina\Project 1\Project 1\bin\Debug\net8.0-windows\Project 1.pdb
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project_1.Form1.resources
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project_1.Properties.Resources.resources
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.GenerateResource.cache
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfoInputs.cache
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.AssemblyInfo.cs
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.csproj.CoreCompileInputs.cache
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.dll
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\refint\Project 1.dll
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.pdb
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\Project 1.genruntimeconfig.cache
+D:\zhaina\Project 1\Project 1\obj\Debug\net8.0-windows\ref\Project 1.dll
