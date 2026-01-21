@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TUGAS_PRAKTIK7</title>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+        }
+        .container {
+            width: 500px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border: 2px solid #000;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        fieldset {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 2px solid #000;
+        }
+        table {
+            width: 100%;
+        }
+        td {
+            padding: 5px;
+            vertical-align: top;
+        }
+        input[type="text"],
+        input[type="number"],
+        textarea,
+        select {
+            width: 100%;
+            padding: 5px;
+            box-sizing: border-box;
+        }
+        textarea {
+            height: 60px;
+        }
+        .radio {
+            width: auto;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>FORMULIR PENDAFTARAN CALON SISWA BARU SMK</h2>
+
+    <fieldset>
+        <legend>BIODATA SISWA</legend>
+        <table>
+            <tr>
+                <td>No. UN SMP/MTs/Sederajat</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Nama Lengkap</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Jenis Kelamin</td>
+                <td>
+                    <input class="radio" type="radio" name="jk"> Laki-laki
+                    <input class="radio" type="radio" name="jk"> Perempuan
+                </td>
+            </tr>
+            <tr>
+                <td>Nama Orang Tua / Wali</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Alamat</td>
+                <td><textarea></textarea></td>
+            </tr>
+            <tr>
+                <td>Kota / Kabupaten</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Asal Sekolah</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Agama</td>
+                <td>
+                    <select>
+                        <option>Islam</option>
+                        <option>Kristen</option>
+                        <option>Katolik</option>
+                        <option>Hindu</option>
+                        <option>Buddha</option>
+                        <option>Konghucu</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>PENILAIAN</legend>
+        <label for="nilai">NILAI UJIAN NASIONAL (NUN)</label>
+        <table>
+            <tr>
+                <td>Matematika</td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Bahasa Indonesia</td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Bahasa Inggris</td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>IPA</td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Jumlah NUN</td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Nilai Bonus Prestasi (NBP)</td>
+                <td><input type="number" id="nun"></td>
+            </tr>
+            <tr>
+                <td>Jumlah Total Nilai Akhir PPDB</td>
+                <td><input type="number"></td>
+            </tr>
+        </table>
+    </fieldset>
+
+    <fieldset>
+        <legend>PILIHAN SEKOLAH</legend>
+        <table>
+            <tr>
+                <td>SMK Pilihan 1</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Jurusan Pilihan 1</td>
+                <td>
+                    <select>
+                        <option>Pengembangan Perangkat Lunak dan Gim</option>
+                        <option>Teknik Mesin</option>
+                        <option>Teknik Otomotif</option>
+                        <option>Teknik Elektronika</option>
+                        <option>Teknik Ketenaga Listrikan</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>SMK Pilihan 2</td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td>Jurusan Pilihan 2</td>
+                <td>
+                    <select>
+                        <option>MPLB</option>
+                        <option>TKJ</option>
+                        <option>AKL</option>
+                        <option>DKV</option>
+                        <OPtion>Pemasaran</OPtion>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+</div>
+
+</body>
+</html>
