@@ -1,0 +1,44 @@
+
+    .judul {
+    font-family: Georgia, serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.p2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.p3 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.1rem;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.p4 {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.p5 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.3em;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+
